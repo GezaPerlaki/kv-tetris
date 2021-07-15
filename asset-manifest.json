@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/kv-tetris/static/css/main.64e4ba69.chunk.css",
+    "main.js": "/kv-tetris/static/js/main.e9fccba6.chunk.js",
+    "main.js.map": "/kv-tetris/static/js/main.e9fccba6.chunk.js.map",
+    "runtime-main.js": "/kv-tetris/static/js/runtime-main.adf472e5.js",
+    "runtime-main.js.map": "/kv-tetris/static/js/runtime-main.adf472e5.js.map",
+    "static/js/2.3bf1ffed.chunk.js": "/kv-tetris/static/js/2.3bf1ffed.chunk.js",
+    "static/js/2.3bf1ffed.chunk.js.map": "/kv-tetris/static/js/2.3bf1ffed.chunk.js.map",
+    "static/js/3.f689e401.chunk.js": "/kv-tetris/static/js/3.f689e401.chunk.js",
+    "static/js/3.f689e401.chunk.js.map": "/kv-tetris/static/js/3.f689e401.chunk.js.map",
+    "index.html": "/kv-tetris/index.html",
+    "static/css/main.64e4ba69.chunk.css.map": "/kv-tetris/static/css/main.64e4ba69.chunk.css.map",
+    "static/js/2.3bf1ffed.chunk.js.LICENSE.txt": "/kv-tetris/static/js/2.3bf1ffed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.adf472e5.js",
+    "static/js/2.3bf1ffed.chunk.js",
+    "static/css/main.64e4ba69.chunk.css",
+    "static/js/main.e9fccba6.chunk.js"
+  ]
+}

@@ -1,5 +1,5 @@
 .game-board {
-  background-color: darkslateblue;
+  background-color: rgb(29, 34, 77);
   color: whitesmoke;
   grid-area: game-board;
 }
